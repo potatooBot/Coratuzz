@@ -1,0 +1,114 @@
+.u-section-1 {
+  background-image: url("images/lowpoly1-hr.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 818px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin: 278px 775px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  margin: 67px auto 0 0;
+  padding: 10px 36px 12px 35px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  margin: -44px auto 60px 199px;
+  padding: 10px 36px 12px 35px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 674px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 151px;
+    margin-right: 575px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 99px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 355px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 45px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 23px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 403px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 175px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 587px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 124px;
+    margin-right: 135px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 35px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 19px;
+    padding: 11px 25px 11px 24px;
+  }
+}

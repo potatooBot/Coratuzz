@@ -1,0 +1,47 @@
+<header class="u-clearfix u-header u-sticky u-sticky-9656 u-header" id="sec-fe27"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="#" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
+          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-menu-1" data-submenu-level="on-click">
+          <div class="menu-collapse u-custom-font u-font-titillium-web" style="font-size: 1.25rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 700;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-body-alt-color u-text-hover-palette-2-base" href="#">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-custom-font u-font-titillium-web u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-5-dark-1 u-text-palette-1-base" href="#" style="padding: 10px 20px;">Cirruculum + Pricing</a><div class="u-nav-popup"><ul class="u-border-1 u-border-palette-1-base u-h-spacing-87 u-nav u-unstyled u-v-spacing-23 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base" href="#">5-6 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base" href="#">7-8 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">9-10 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">11-12 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">13-14 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">15-16 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">17-18 Years</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-5-dark-1 u-text-palette-1-base" style="padding: 10px 20px;">About Us</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-container-style u-inner-container-layout u-opacity u-opacity-90 u-palette-1-base u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-spacing-67 u-text-palette-2-light-3 u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 20px;">Cirruculum + Pricing</a><div class="u-nav-popup"><ul class="u-border-1 u-border-palette-1-base u-h-spacing-87 u-nav u-unstyled u-v-spacing-23 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base" href="#">5-6 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base" href="#">7-8 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">9-10 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">11-12 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">13-14 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">15-16 Years</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-palette-1-base">17-18 Years</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" style="padding: 10px 20px;">About Us</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>

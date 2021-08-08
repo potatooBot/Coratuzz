@@ -1,0 +1,234 @@
+.u-section-1 {
+  background-image: url("images/lowpoly1-hr.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1242px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  text-shadow: -2px -2px 8px rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  margin: 148px 775px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 203px auto 0 0;
+  padding: 10px 36px 12px 35px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -44px auto 0 213px;
+  padding: 10px 36px 12px 35px;
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 584px;
+  width: 591px;
+  margin: -353px 0 0 auto;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-section-1 .u-gallery-inner-1 {
+  grid-template-columns: auto auto auto;
+}
+
+.u-section-1 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: auto;
+  right: 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  text-transform: uppercase;
+  margin: -452px 634px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1024px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 575px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 13px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    margin-right: -50px;
+  }
+
+  .u-section-1 .u-over-slide-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-over-slide-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-over-slide-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 434px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 784px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 355px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 27px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    height: 407px;
+    width: 370px;
+    margin-top: -206px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -494px;
+    margin-right: 214px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 801px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 175px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 34px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 957px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 115px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -129px;
+    margin-left: auto;
+    padding: 11px 25px 11px 24px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    height: 400px;
+    margin-top: 292px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-over-slide-1 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-over-slide-2 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-over-slide-3 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -577px;
+    margin-right: 0;
+  }
+}

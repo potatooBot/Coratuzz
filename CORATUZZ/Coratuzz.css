@@ -65,7 +65,7 @@
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   animation-duration: 1000ms;
   font-weight: normal;
-  margin: -481px 673px 0 16px;
+  margin: -481px 689px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -89,7 +89,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 2px;
-  margin: -44px auto 60px 270px;
+  margin: -44px auto -303px 270px;
   padding: 11px 50px 11px 49px;
 }
 
@@ -100,7 +100,6 @@
 
   .u-section-1 .u-text-1 {
     margin-right: 489px;
-    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -781,7 +780,6 @@
   .u-section-4 .u-list-1 {
     margin-bottom: 0;
     width: 340px;
-    height: auto;
   }
 
   .u-section-4 .u-repeater-1 {
